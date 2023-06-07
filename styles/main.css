@@ -9152,6 +9152,12 @@ fieldset:disabled .btn {
   background-size: cover;
 }
 
+.bg-sei {
+  --bs-bg-opacity: 1;
+  background-image: url("../images/cover-4.png");
+  background-size: cover;
+}
+
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: #fe4d24;
