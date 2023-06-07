@@ -9140,9 +9140,15 @@ fieldset:disabled .btn {
   background-size: cover;
 }
 
-.bg-mentoria {
+.bg-preparatorio {
   --bs-bg-opacity: 1;
   background-image: url("../images/cover-2.png");
+  background-size: cover;
+}
+
+.bg-mentoria {
+  --bs-bg-opacity: 1;
+  background-image: url("../images/cover-3.png");
   background-size: cover;
 }
 
