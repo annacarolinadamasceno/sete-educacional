@@ -27,6 +27,7 @@ body {
 }
 .featurette-heading {
   letter-spacing: -.05rem;
+  margin-top:5rem;
 }
 @media (min-width: 40em) {
   .carousel-caption p {
@@ -40,8 +41,8 @@ body {
   }
 }
 
-@media (min-width: 62em) {
+/* @media (min-width: 62em) {
   .featurette-heading {
-    margin-top: 7rem;
+    margin-top: 4rem;
   }
-}
+} */
