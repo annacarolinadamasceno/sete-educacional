@@ -9141,7 +9141,9 @@ fieldset:disabled .btn {
 }
 
 .bg-preparatorio {
-  
+  --bs-bg-opacity: 1;
+  background-image: url("../images/cover-2.png");
+  background-size: cover;
 }
 
 .bg-mentoria {
