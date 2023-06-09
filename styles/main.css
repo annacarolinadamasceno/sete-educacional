@@ -9138,12 +9138,14 @@ fieldset:disabled .btn {
   --bs-bg-opacity: 1;
   background-image: url("../images/cover-1.png");
   background-size: cover;
+  background-position: center;
 }
 
 .bg-preparatorio {
   --bs-bg-opacity: 1;
   background-image: url("../images/cover-2.png");
   background-size: cover;
+  background-position: center;
 }
 
 .bg-mentoria {
@@ -9156,6 +9158,7 @@ fieldset:disabled .btn {
   --bs-bg-opacity: 1;
   background-image: url("../images/cover-4.png");
   background-size: cover;
+  background-position: center;
 }
 
 .bg-primary {
