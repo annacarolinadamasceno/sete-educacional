@@ -9161,6 +9161,13 @@ fieldset:disabled .btn {
   background-position: center;
 }
 
+.bg-aula-online {
+  --bs-bg-opacity: 1;
+  background-image: url("../images/cover-5.png");
+  background-size: cover;
+  background-position: left;
+}
+
 .bg-primary {
   --bs-bg-opacity: 1;
   background-color: #fe4d24;
